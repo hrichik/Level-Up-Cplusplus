@@ -1,0 +1,1 @@
+The following source files are my solutions to the challenges found in LinkedIn Learning's course "Level Up: C++". As I complete these challenges, I will update this README with the functionalities and purposes.
